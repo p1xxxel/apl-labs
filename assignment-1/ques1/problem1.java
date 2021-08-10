@@ -47,28 +47,5 @@ class calculator{
 		else{
 			System.out.println("Unsupported Operation\n");
 		}
-//		System.out.print("You have entered :"+operation);
-//		if (operation.equals("+")){
-//			System.out.println(num1+num2);
-//		}
-//		else if (operation.equals("-")){
-//			System.out.println(num1-num2);
-//		}
-//		else if (operation.equals("*")){
-//			System.out.println(num1*num2);
-//		}
-//		else if (operation.equals("/")){
-//			System.out.println(num1/num2);
-//		}
-//		else if (operation.equalsIgnoreCase("AND")){
-//			System.out.println(bn1 && bn2);
-//		}
-//		else if (operation.equalsIgnoreCase("OR")){
-//			System.out.println(bn1 && bn2);
-//		}
-//		else if (operation.equalsIgnoreCase("NOT")){
-//			System.out.println(!bn);
-//		}
-
 	}
 }
